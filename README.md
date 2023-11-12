@@ -1,6 +1,6 @@
 
 
-# module-1-challenge# 
+# module-one-challenge # 
 ## Description
 
 This project is a refactoring exercise aimed at improving the accessibility and code organization of a provided web development codebase. 
@@ -18,7 +18,7 @@ The goal is to meet accessibility standards by ensuring semantic HTML elements, 
 To run this project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/Msalarzon/module-one-challenge.  
-Navigate to the project directory: cd module-1-challenge.  
+Navigate to the project directory: cd module-one-challenge.  
 Open the index.html file in your preferred web browser.
 
 ## Usage
