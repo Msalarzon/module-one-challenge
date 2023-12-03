@@ -29,6 +29,7 @@ Take a look at the screenshot below to get a visual overview of the website:
 
 ![Website Screenshot](assets/images/webpage-screenshot.png)
 
+Website URL: https://msalarzon.github.io/module-one-challenge/
 
 ## Refactoring
 
